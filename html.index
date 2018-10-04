@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
 <title>dru2</title>
@@ -54,6 +54,11 @@ footer {
 </style>
 </head>
 <body>
+
+<header>
+    <h2>Programming</h2>
+</header>
+
 <h2>CSS Layout Float</h2>
 <p>sample text sample text sample text</p>
 <p>sample text 2 sample text 2</p>
